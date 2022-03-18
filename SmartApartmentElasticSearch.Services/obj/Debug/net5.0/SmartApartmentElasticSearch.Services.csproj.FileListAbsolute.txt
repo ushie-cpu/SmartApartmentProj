@@ -1,0 +1,14 @@
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Services\bin\Debug\net5.0\SmartApartmentElasticSearch.Services.deps.json
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Services\bin\Debug\net5.0\SmartApartmentElasticSearch.Services.dll
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Services\bin\Debug\net5.0\ref\SmartApartmentElasticSearch.Services.dll
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Services\bin\Debug\net5.0\SmartApartmentElasticSearch.Services.pdb
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Services\bin\Debug\net5.0\SmartApartmentElasticSearch.Models.dll
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Services\bin\Debug\net5.0\SmartApartmentElasticSearch.Models.pdb
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Services\obj\Debug\net5.0\SmartApartmentElasticSearch.Services.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Services\obj\Debug\net5.0\SmartApartmentElasticSearch.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Services\obj\Debug\net5.0\SmartApartmentElasticSearch.Services.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Services\obj\Debug\net5.0\SmartApartmentElasticSearch.Services.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Services\obj\Debug\net5.0\SmartApartmentElasticSearch.Services.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Services\obj\Debug\net5.0\SmartApartmentElasticSearch.Services.dll
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Services\obj\Debug\net5.0\ref\SmartApartmentElasticSearch.Services.dll
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Services\obj\Debug\net5.0\SmartApartmentElasticSearch.Services.pdb

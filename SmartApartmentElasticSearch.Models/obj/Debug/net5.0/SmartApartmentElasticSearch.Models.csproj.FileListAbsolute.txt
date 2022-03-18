@@ -1,0 +1,12 @@
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Models\bin\Debug\net5.0\SmartApartmentElasticSearch.Models.deps.json
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Models\bin\Debug\net5.0\SmartApartmentElasticSearch.Models.dll
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Models\bin\Debug\net5.0\ref\SmartApartmentElasticSearch.Models.dll
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Models\bin\Debug\net5.0\SmartApartmentElasticSearch.Models.pdb
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Models\obj\Debug\net5.0\SmartApartmentElasticSearch.Models.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Models\obj\Debug\net5.0\SmartApartmentElasticSearch.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Models\obj\Debug\net5.0\SmartApartmentElasticSearch.Models.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Models\obj\Debug\net5.0\SmartApartmentElasticSearch.Models.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Models\obj\Debug\net5.0\SmartApartmentElasticSearch.Models.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Models\obj\Debug\net5.0\SmartApartmentElasticSearch.Models.dll
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Models\obj\Debug\net5.0\ref\SmartApartmentElasticSearch.Models.dll
+C:\Users\Decagon\source\repos\SmartApartmentElasticsearch\SmartApartmentElasticSearch.Models\obj\Debug\net5.0\SmartApartmentElasticSearch.Models.pdb

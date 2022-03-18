@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartApartmentElasticsearch.Core", "SmartApartmentElasticsearch.Core\SmartApartmentElasticsearch.Core.csproj", "{2804CC29-12E6-4C20-8343-C6F3A0AE9735}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartApartmentElasticSearch.Services", "SmartApartmentElasticSearch.Services\SmartApartmentElasticSearch.Services.csproj", "{7DAD6FAC-42EA-45FF-8A6D-1539973A10D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartApartmentElasticSearch.Models", "SmartApartmentElasticSearch.Models\SmartApartmentElasticSearch.Models.csproj", "{FCFDF223-CD8F-4F4F-8655-76FE9E1AB24B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2804CC29-12E6-4C20-8343-C6F3A0AE9735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2804CC29-12E6-4C20-8343-C6F3A0AE9735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2804CC29-12E6-4C20-8343-C6F3A0AE9735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2804CC29-12E6-4C20-8343-C6F3A0AE9735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DAD6FAC-42EA-45FF-8A6D-1539973A10D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DAD6FAC-42EA-45FF-8A6D-1539973A10D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DAD6FAC-42EA-45FF-8A6D-1539973A10D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DAD6FAC-42EA-45FF-8A6D-1539973A10D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCFDF223-CD8F-4F4F-8655-76FE9E1AB24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFDF223-CD8F-4F4F-8655-76FE9E1AB24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFDF223-CD8F-4F4F-8655-76FE9E1AB24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFDF223-CD8F-4F4F-8655-76FE9E1AB24B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F605B0BA-8566-44F1-83CE-E809613CBD72}
+	EndGlobalSection
+EndGlobal

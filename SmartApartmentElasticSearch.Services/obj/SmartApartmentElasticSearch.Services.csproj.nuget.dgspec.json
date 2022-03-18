@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Decagon\\Desktop\\SmartApartmentElasticsearch\\SmartApartmentElasticSearch.Services\\SmartApartmentElasticSearch.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Decagon\\Desktop\\SmartApartmentElasticsearch\\SmartApartmentElasticSearch.Models\\SmartApartmentElasticSearch.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Decagon\\Desktop\\SmartApartmentElasticsearch\\SmartApartmentElasticSearch.Models\\SmartApartmentElasticSearch.Models.csproj",
+        "projectName": "SmartApartmentElasticSearch.Models",
+        "projectPath": "C:\\Users\\Decagon\\Desktop\\SmartApartmentElasticsearch\\SmartApartmentElasticSearch.Models\\SmartApartmentElasticSearch.Models.csproj",
+        "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Decagon\\Desktop\\SmartApartmentElasticsearch\\SmartApartmentElasticSearch.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Decagon\\Desktop\\SmartApartmentElasticsearch\\SmartApartmentElasticSearch.Services\\SmartApartmentElasticSearch.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Decagon\\Desktop\\SmartApartmentElasticsearch\\SmartApartmentElasticSearch.Services\\SmartApartmentElasticSearch.Services.csproj",
+        "projectName": "SmartApartmentElasticSearch.Services",
+        "projectPath": "C:\\Users\\Decagon\\Desktop\\SmartApartmentElasticsearch\\SmartApartmentElasticSearch.Services\\SmartApartmentElasticSearch.Services.csproj",
+        "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Decagon\\Desktop\\SmartApartmentElasticsearch\\SmartApartmentElasticSearch.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Decagon\\Desktop\\SmartApartmentElasticsearch\\SmartApartmentElasticSearch.Models\\SmartApartmentElasticSearch.Models.csproj": {
+                "projectPath": "C:\\Users\\Decagon\\Desktop\\SmartApartmentElasticsearch\\SmartApartmentElasticSearch.Models\\SmartApartmentElasticSearch.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Elasticsearch.Net.Aws": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.0, )"
+            },
+            "NPoco": {
+              "target": "Package",
+              "version": "[5.3.2, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
